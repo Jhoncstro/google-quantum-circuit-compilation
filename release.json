@@ -1,0 +1,26 @@
+{
+  "candidate": "v8_maoxin_refit_weights_24.94091",
+  "competition": "google-verifiable-quantum-circuit-compilation",
+  "source_kernel": "maoxin123/lb-24-94-chem-weight-refit-on-syed-loaders",
+  "source_verifier_status": "PASS for chemistry, DQI, and invsqrt in the source execution log",
+  "official_kaggle_submission_ref": 58048237,
+  "official_kaggle_status": "COMPLETE",
+  "official_public_score": 24.94090,
+  "source_reported_geometric_mean": 24.94091,
+  "source_metrics": {
+    "invsqrt_cost": 97746.89551640928,
+    "dqi_cost": 374771517851.6414,
+    "dfthcsos_cost": 299671079.5331688
+  },
+  "baseline_v6_public_score": 24.94086,
+  "v7_public_score": 24.94087,
+  "changed_member_vs_v6": [
+    "dfthcsos/submission.npz"
+  ],
+  "archive": {
+    "file": "submission-v8.zip",
+    "sha256": "f99fba9d7c93a5202039cca8023c6fe70bb6f07c1e30adf26c4168b02b6b70e5",
+    "member_count": 18,
+    "crc_check": "PASS"
+  }
+}
